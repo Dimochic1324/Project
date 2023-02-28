@@ -5,3 +5,19 @@
     margin:auto;
     padding: 10px;
 }
+.header{
+    &__inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    &__title{
+        color: #fff;
+    }
+    &__diviver{
+        color: #fff;
+    }
+}
+.hidden{
+    display: none;
+}

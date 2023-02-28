@@ -4,4 +4,20 @@
   max-width: 720px;
   margin: auto;
   padding: 10px;
+}
+
+.header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__title {
+  color: #fff;
+}
+.header__diviver {
+  color: #fff;
+}
+
+.hidden {
+  display: none;
 }/*# sourceMappingURL=index.css.map */
